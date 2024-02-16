@@ -1,10 +1,10 @@
 # Student Grade Calculator
 
-![GitHub last commit](https://img.shields.io/github/last-commit/zahidparviz/CodingSamuraiTaskThree)
+![GitHub last commit](https://img.shields.io/github/last-commit/zahidprvz/CodingSamuraiTaskThree)
 
 ## Overview
 
-The Student Grade Calculator is a Java program that allows users to input their course grades and calculates their final grades based on a custom grading scale. This project is an ideal starting point for Java beginners, providing hands-on experience in console-based Java programming and essential concepts such as input validation, conditional statements, and user interactions.
+The Student Grade Calculator is a Java program that allows users to input their course grades and calculate their final grades based on a custom grading scale. This project is an ideal starting point for Java beginners, providing hands-on experience in console-based Java programming and essential concepts such as input validation, conditional statements, and user interactions.
 
 ## Key Features
 
@@ -21,7 +21,7 @@ The Student Grade Calculator is a Java program that allows users to input their 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zahidparviz/CodingSamuraiTaskThree.git
+   git clone https://github.com/zahidprvz/CodingSamuraiTaskThree.git
    ```
 
 2. Navigate to the project directory:
@@ -47,11 +47,11 @@ You can customize the grading scale, weights, and additional components in the J
 
 ## Contributors
 
-- [Zahid Parviz](https://github.com/zahidparviz) - Main Developer
+- [Zahid Parviz](https://github.com/zahidprvz) - Main Developer
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-Feel free to [contribute](CONTRIBUTING.md) to this project or report issues [here](https://github.com/zpmughal/CodingSamuraiTaskThree/issues).
+Feel free to [contribute](CONTRIBUTING.md) to this project or report issues [here](https://github.com/zahidprvz/CodingSamuraiTaskThree/issues).
